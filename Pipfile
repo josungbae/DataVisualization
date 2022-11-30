@@ -7,6 +7,11 @@ name = "pypi"
 streamlit = "*"
 numpy = "*"
 pandas = "*"
+flask = "*"
+ipykernel = "*"
+jupyter = "*"
+requests = "*"
+pyarrow = "*"
 
 [dev-packages]
 ipykernel = "*"
